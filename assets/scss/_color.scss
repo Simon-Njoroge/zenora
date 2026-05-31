@@ -1,0 +1,107 @@
+
+/*-------------   Color Variable  --------------*/
+
+
+
+//Theme color - Zenora Brand
+	$theme-color: #3B5BDB;
+	$theme-color2: #6A0DAD;
+	$theme-color3: #6A0DAD;
+	$theme-color4: #6A0DAD;
+
+// btn and Section color
+	$btn_bg: #3B5BDB;
+
+// font-color
+	$heading-color:#3B5BDB;
+	$heading_color2: #6A0DAD;
+
+// Body Font
+	$body-text-color: #1F1F2E;
+	$hr-border-color:#C4B8F0;
+
+
+// Section Bg
+	$section_bg1: #F0EEFF;
+
+//Colors
+	$white: #FFFFFF;
+	$black: #1A1A2E;
+	$gray:#F0EEFF;
+
+
+
+.white-bg{
+	background: #FFFFFF;
+}
+.gray-bg{
+	background: #F0EEFF;
+}
+
+	$gray-color: #C4B8F0;
+	$gray-color-2: #E0D7FF;
+	$gray-color3:#6A0DAD;
+	$white_color:#fff;
+
+
+// font color
+	$font_color1: #3B5BDB;
+	$border_color: #E0D7FF;
+	$footer_bg: #1A1A2E;
+	$sidebar_bg: #F0EEFF;
+
+
+
+
+// bg
+	$brand-bg: #F0EEFF;
+	$testimonial-bg:#F0EEFF;
+
+
+// Soft color
+	$black-soft:#1F1F2E;
+
+// Section Bg color
+	$blue-bg1:#3B5BDB;
+
+
+
+
+/*-------------Color include--------------*/
+
+
+/*-- Background color---*/
+.section-bg1{
+	background: #13151b;
+}
+
+.gray-bg {
+	background: $gray;
+}
+.white-bg {
+	background:$white;
+}
+.black-bg {
+	background: $black;
+}
+.theme-bg {
+	background:$theme-color;
+}
+.brand-bg{
+	background: $brand-bg;
+}
+.testimonial-bg{
+	background: $testimonial-bg;
+}
+
+
+/*--- color------*/
+.white-color {
+	color: $white;
+}
+.black-color {
+	color: $black;
+}
+.theme-color {
+	color: $theme-color;
+}
